@@ -1123,7 +1123,7 @@
                          "value":"auditorium"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":770,
                  "x":186,
