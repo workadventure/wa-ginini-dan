@@ -1095,7 +1095,7 @@
                  "id":187,
                  "name":"roofZoneAuditorium",
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":925.333333333333,
                  "x":117.333333333333,
