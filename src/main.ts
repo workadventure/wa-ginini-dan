@@ -25,9 +25,11 @@ WA.onInit().then(() => {
 
     WA.room.area.onEnter("roofZoneAuditorium").subscribe(() => {
         WA.room.hideLayer("Roof/roofAuditorium");
+        WA.room.hideLayer("Roof/roofAuditorium2");
     });
     WA.room.area.onLeave("roofZoneAuditorium").subscribe(() => {
         WA.room.showLayer("Roof/roofAuditorium");
+        WA.room.showLayer("Roof/roofAuditorium2");
     });
 
     // The line below bootstraps the Scripting API Extra library that adds a number of advanced properties/features to WorkAdventure
