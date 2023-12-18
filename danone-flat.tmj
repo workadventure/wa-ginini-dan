@@ -1111,23 +1111,6 @@
                  "width":893.333333333333,
                  "x":1210.66666666667,
                  "y":572
-                }, 
-                {
-                 "height":1190,
-                 "id":191,
-                 "name":"auditorium",
-                 "properties":[
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"auditorium"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":770,
-                 "x":186,
-                 "y":214
                 }],
          "opacity":1,
          "type":"objectgroup",
