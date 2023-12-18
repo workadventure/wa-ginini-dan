@@ -1727,7 +1727,7 @@
                  "name":"roofAuditorium2",
                  "opacity":1,
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":128,
                  "x":0,
                  "y":0
