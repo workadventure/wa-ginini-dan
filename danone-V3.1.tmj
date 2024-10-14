@@ -1,12 +1,4 @@
 { "compressionlevel":-1,
- "editorsettings":
-    {
-     "export":
-        {
-         "format":"tmx",
-         "target":"danone-V3.2.tmx"
-        }
-    },
  "height":70,
  "infinite":false,
  "layers":[
@@ -1947,7 +1939,7 @@
          "name":"Roof",
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }],
